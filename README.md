@@ -32,5 +32,5 @@ Rather use rust instead? That template is
 
 Generate the template using the following command:
 ```
-cookiecutter https://github.com/mattcl/aoc-python-template.git
+cookiecutter https://github.com/chancalan/aoc-python-template.git --checkout alan-develop
 ```

@@ -1,6 +1,6 @@
 {
     "aoc_year": "2023",
-    "github_username": "mattcl",
+    "github_username": "chancalan",
     "project_name": "aoc{{ cookiecutter.aoc_year }}",
     "package_name": "{{ cookiecutter.github_username }}-{{ cookiecutter.project_name }}",
     "executable": "{{ cookiecutter.github_username }}-aoc",
